@@ -67,7 +67,7 @@ Available hooks:
         queue_size={10}
     >
         <ChildrenWithUseMsgHook...>
-    </RosConnect>
+    </Subscriber>
 
 Inside the child component `<ChildrenWithUseMsgHook>` you just need to use:
 
