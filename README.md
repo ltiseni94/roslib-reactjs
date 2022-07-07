@@ -2,6 +2,12 @@
 
 A collection of context providers for creating GUI with ReactJS and React Native
 
+I created this library because I needed to develop a web application for a robot. My goal at the time was to develop a React Component for each of the ROS most used "objects" - subscribers, publishers, service clients, etc. etc. I developed this thing for personal use, and then I decided to upload it online on npm since at the time there were no other libraries - maybe still now - that could provide such a straightforward mapping between React and ROS.
+
+As far as I know, some people is now using this library. I cannot maintain it on myself, so help from the community would be really appreciated. Please open issues and send pull requests so this library can be improved and used by everybody.
+
+## Minimal Doc
+
 Available components:
 
 1) RosConnect
